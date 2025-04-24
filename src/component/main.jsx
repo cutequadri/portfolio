@@ -5,7 +5,7 @@ import { FaTwitter, FaFacebookF, FaInstagram, FaLinkedin} from 'react-icons/fa'
 function Main() {
     return (
         <div id='main'>
-            <img className='w-full h-screen object-cover object-left scale-x-[-1]' src='https://media.istockphoto.com/id/1453026951/photo/kayaks-in-a-lake-surrounded-by-leafless-trees-with-a-background-of-mountains.jpg?s=612x612&w=0&k=20&c=PvGOWiXXuHLwchD1nwsCXNvlcuE_i5JsRLiwpllUiJQ=' alt='jjj'></img>
+            <img className='w-full h-screen object-cover object-left scale-x-[-1]' src='https://th.bing.com/th/id/R.49dc0737dcbc4f5d9d8c2feb8e1dfbbb?rik=8r%2fdCKj2MqH8HA&pid=ImgRaw&r=0' alt='jjj'></img>
         <div className='w-full h-screen absolute top-0 left-0 bg-white/50' >
             <div className='max-w-[700px] m-auto h-full flex flex-col justify-center lg:items-start items-center' > 
                 <h1 className='sm:text-5xl text-4xl font-bold tesxt-gray-800'>I'm QUADRI</h1>
