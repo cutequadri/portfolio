@@ -4,7 +4,7 @@ import Main from './component/main';
 import Work from './component/work';
 import Project from './component/project';
 import Contact from './component/contact';
-
+import Resume from './component/resume';
 function App() {
   return (
     <div>
@@ -12,7 +12,9 @@ function App() {
       <Main/>
       <Work/>
       <Project/>
+      <Resume/>
       <Contact/>
+      
     </div>
   );
 }

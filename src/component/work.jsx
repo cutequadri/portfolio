@@ -3,32 +3,32 @@ import Workitem from './workitem'
 
 const data =[
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
+        year: 2023,
+        title: 'Microsoft, Learn Student Ambassador',
+        duration: '2 years',
         details:
-        'orem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+        'Completed over 70 Microsoft Learn modules on Cloud Technologies, DevOps, Data Analysis, Security and Compliance, Software Development, and Machine Learning. Also Headed a team of 2 ambassadors in organizing and executing 5 workshops, reaching over 200+ students and equipping them with the skills to leverage Microsoft technologies effectively'
+    },
+    {
+        year: 2024,
+        title: 'Google Developer Student Clubs, Core Team Member',
+        duration: '1 year',
+        details:
+        'Organized and facilitated weekly community meetings, ensuring effective communication and coordination among community members, resulting in a 20% increase in project productivity. Also  Led a team of 10 developers in building a product landing page for a seafood restaurant in 4 weeks. Moreover Collaborated with other core members to organize 3 events and 1 hackathon, attracting over 300+ participants. '
+    },
+    {
+        year: 2020,
+        title: 'Crown Branding Agency, Product Designer',
+        duration: '4 years',
+        details:
+        'Delivered branding solutions for 4 clients, boosting client satisfaction by 68%. Achieved 98% on-time project delivery with positive client feedback on brand consistency and quality.  Led agency website redesign, increasing traffic by 40%  '
     },
     {
         year: 2017,
-        title: 'Google',
-        duration: '2 years',
+        title: 'Revmabit',
+        duration: '4 years',
         details:
-        'orem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    },
-    {
-        year: 2015,
-        title: 'Amazon',
-        duration: '5 years',
-        details:
-        'orem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    },
-    {
-        year: 2012,
-        title: 'Facebook',
-        duration: '3 years',
-        details:
-        'orem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+        'During my tenure at Revmabit, a leading data structure company, I contributed significantly to the growth and success of the organization. My role involved implementing efficient algorithms and optimizing data structures that streamlined data processing and improved overall system performance. One of my key achievements was enhancing the companys core data architecture, resulting in a 20% increase in processing speed and reducing storage costs by optimizing data retrieval methods. Additionally, I collaborated with cross-functional teams to develop scalable solutions that supported the company’s long-term goals and client needs, further elevating Revmabit reputation for delivering top-tier data solutions.'
     },
 ]
 function Work() {
