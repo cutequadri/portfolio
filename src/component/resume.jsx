@@ -11,7 +11,7 @@ function Resume() {
             <img src={youtubeimg} alt='/' className='rounded-xl group-hover:opacity-10'/>
             <div className='hidden group-hover:block absolute top-[50%] left[50%] translate-x-[-50%] translate-y-[-50%]'>
                 <h3 className='text-2xl font-bold text-white tracking-wider text-center'>Resume</h3>
-                <a href="https://drive.google.com/file/d/1wWaWHR8N2Xq1imDb0HSKaMWZDyMOs4ry/view">
+                <a href="https://drive.google.com/file/d/1wWaWHR8N2Xq1imDb0HSKaMWZDyMOs4ry/view?usp=sharing">
                     <p className='text-center p-3 rounded-lg bg-white text-pink-400 font-bold cursor-pointer text-lg'>
                    Click to view Resume
                     </p>
